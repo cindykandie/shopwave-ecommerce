@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "name": "Shiny Hair Shampoo",
+      "price": 12.99,
+      "rating": 4.5,
+      "image": "/shiny-hair-shampoo.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Revitalizing Conditioner",
+      "price": 10.49,
+      "rating": 4.2,
+      "image": "/revitalizing-conditioner.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Curl Enhancing Gel",
+      "price": 8.99,
+      "rating": 5.0,
+      "image": "/curl-enhancing-gel.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Silky Smooth Serum",
+      "price": 14.99,
+      "rating": 4.7,
+      "image": "/silky-smooth-serum.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Volume Boosting Spray",
+      "price": 9.95,
+      "rating": 4.3,
+      "image": "/volume-boosting-spray.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Frizz Control Cream",
+      "price": 11.25,
+      "rating": 4.1,
+      "image": "/frizz-control-cream.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Moisture Locking Mask",
+      "price": 15.75,
+      "rating": 4.6,
+      "image": "/moisture-locking-mask.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Heat Protectant Spray",
+      "price": 7.99,
+      "rating": 4.4,
+      "image": "/heat-protectant-spray.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Detangling Comb",
+      "price": 6.50,
+      "rating": 3.0,
+      "image": "/detangling-comb.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Color Care Shampoo",
+      "price": 13.49,
+      "rating": 4.5,
+      "image": "/color-care-shampoo.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Repairing Hair Mask",
+      "price": 16.99,
+      "rating": 4.8,
+      "image": "/repairing-hair-mask.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Texturizing Paste",
+      "price": 8.75,
+      "rating": 4.2,
+      "image": "/texturizing-paste.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Argan Oil Elixir",
+      "price": 19.95,
+      "rating": 4.6,
+      "image": "/argan-oil-elixir.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Hair Growth Serum",
+      "price": 22.50,
+      "rating": 4.9,
+      "image": "/hair-growth-serum.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Sleek Styling Cream",
+      "price": 10.99,
+      "rating": 4.3,
+      "image": "/sleek-styling-cream.jpg"
+    }
+  ]
+  
