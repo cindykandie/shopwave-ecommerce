@@ -1,12 +1,19 @@
+"use client"
 import React from 'react';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import AirIcon from '@mui/icons-material/Air';
 import SearchIcon from '@mui/icons-material/Search';
 import LoginIcon from '@mui/icons-material/Login';
 import LocalOfferIcon from '@mui/icons-material/LocalOffer';
-import Link from 'next/link'; // Import Link from 'next/link'
+import Link from 'next/link'; 
+import { useStateValue } from '../StateProvider';
+import reducer, { initialState } from '../reducer';
+
 
 export default function Header() {
+
+const [{cart}, dispatch] = useStateValue()
+
   return (
     <div className='flex gap-3 p-5'>
       <Link href="/" className="header-logo flex ">
@@ -30,7 +37,7 @@ export default function Header() {
         </Link>
         <Link href="/Checkout" className="cart flex">
           <ShoppingCartIcon />
-          <span>0</span>
+          <span>{cart.length}</span>
         </Link>
       </div>
     </div>
